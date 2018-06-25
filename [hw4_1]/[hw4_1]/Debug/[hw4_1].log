@@ -1,0 +1,4 @@
+﻿  Box.cpp
+c:\users\jieun\desktop\[hw4_1]\[hw4_1]\box.cpp(51): error C3867: 'Box::getVolume': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+c:\users\jieun\desktop\[hw4_1]\[hw4_1]\box.cpp(53): error C3867: 'Box::getVolume': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
+c:\users\jieun\desktop\[hw4_1]\[hw4_1]\box.cpp(55): error C3867: 'Box::getVolume': 비표준 구문입니다. '&'를 사용하여 멤버 포인터를 만드세요.
